@@ -12,8 +12,7 @@ The library also allows you to configure the image generation process in such a 
 Generate compliant JSON metadata for your NFTs
 There is now an added functionality to generate JSON metadata for your NFTs that are in compliance with OpenSea metadata requirements (and by extension, the general NFT metadata standard).
 
-Fuzzy friendly
-You can use this library even if you do not know how to program (in Python or otherwise). Do check out the Tutorial for more details on how to use (non-technical) and extend (technical) the library.
+Fuzzy friendly: Layman for all apes
 
 Installation
 
